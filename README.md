@@ -22,5 +22,12 @@ Confirmed to work on the following specs
 - https://rpmfusion.org/Howto/NVIDIA
 - https://github.com/vinceliuice/McMojave-cursors
 - https://dlvhdr.github.io/gh-dash/ 
+- https://docs.astronvim.com/
+
+### Regenerate akmods
+
+- `akmods --force`
+- `dracut -f --regenerate-all`
+
 
 
