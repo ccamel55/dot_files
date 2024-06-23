@@ -29,5 +29,20 @@ Confirmed to work on the following specs
 - `akmods --force`
 - `dracut -f --regenerate-all`
 
+### Fix audio
 
+- restart audio `alsactl init`
+- restart pipewire `systemctl restart --user pipewire`
+
+- don't install easy effects
+- disable amd iommu (add to kernel parameters) `amd_iommu=off`
+- update pipewire config `/usr/share/pipewire/pipewire.conf`
+
+
+```
+        default.clock.quantum     = 2048
+        default.clock.min-quantum = 1024
+        default.clock.max-quantum = 4096
+
+```
 
