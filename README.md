@@ -34,7 +34,7 @@ Confirmed to work on the following specs
 - restart audio `alsactl init`
 - restart pipewire `systemctl restart --user pipewire`
 
-- disable auto suspend USB with udev rules and grub kernel CMD `usbcore.autosuspend=-1`
+~- disable auto suspend USB with udev rules and grub kernel CMD `usbcore.autosuspend=-1`~
 - disable amd iommu (add to kernel parameters) `amd_iommu=off`
 - update pipewire config `/usr/share/pipewire/pipewire.conf` and copy to `~/.config/pipewire/`
 
