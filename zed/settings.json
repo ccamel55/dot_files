@@ -23,13 +23,21 @@
   "buffer_font_size": 12,
   "assistant": {
     "enabled": false,
-    "version": "1"
+    "version": "2"
   },
   "chat_panel": {
     "button": false
   },
   "collaboration_panel": {
     "button": false
+  },
+  "file_types": {
+    "CMake": ["CMakeLists.txt"]
+  },
+  "lsp": {
+    "clangd": {
+      "arguments": ["-background-index"]
+    }
   },
   "notification_panel": {
     "button": false
@@ -44,5 +52,6 @@
   },
   "autosave": "on_focus_change",
   "confirm_quit": true,
+  "format_on_save": "off",
   "show_whitespaces": "all"
 }
