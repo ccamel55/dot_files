@@ -13,14 +13,15 @@
     "bindings": {
       "space e": "workspace::ToggleLeftDock",
       "ctrl-/": "workspace::ToggleBottomDock",
-      "space p": "editor::Format",
       "space space": "file_finder::Toggle",
       "shift-l": "pane::ActivateNextItem",
       "shift-h": "pane::ActivatePrevItem",
       "space v": "pane::SplitRight",
       "space w": "pane::CloseActiveItem",
-      "space h": "workspace::ActivateNextPane",
-      "space l": "workspace::ActivatePreviousPane"
+
+      // These keys get override - default vim bindings
+      "ctrl-u": ["workspace::SendKeystrokes", "1 5 k z z"], // Move up 15 times
+      "ctrl-d": ["workspace::SendKeystrokes", "1 5 j z z"]  // Move down 15 times
     }
   },
   {
