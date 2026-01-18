@@ -1,0 +1,332 @@
+version: 7
+profiles:
+  - options:
+      host: 192.168.1.25
+      user: ama
+      algorithms:
+        hmac:
+          - hmac-sha1
+          - hmac-sha1-etm@openssh.com
+          - hmac-sha2-256
+          - hmac-sha2-256-etm@openssh.com
+          - hmac-sha2-512
+          - hmac-sha2-512-etm@openssh.com
+        kex:
+          - curve25519-sha256
+          - curve25519-sha256@libssh.org
+          - diffie-hellman-group14-sha256
+          - diffie-hellman-group16-sha512
+          - ext-info-c
+          - ext-info-s
+          - kex-strict-c-v00@openssh.com
+          - kex-strict-s-v00@openssh.com
+        cipher:
+          - aes128-ctr
+          - aes192-ctr
+          - aes256-ctr
+          - aes256-gcm@openssh.com
+          - chacha20-poly1305@openssh.com
+        serverHostKey:
+          - ecdsa-sha2-nistp256
+          - ecdsa-sha2-nistp521
+          - rsa-sha2-256
+          - rsa-sha2-512
+          - ssh-ed25519
+          - ssh-rsa
+      input: {}
+      privateKeys:
+        - file:///home/allan/.ssh/id_ed25519
+      auth: publicKey
+      forwardedPorts: []
+      scripts: []
+    weight: -1
+    icon: fas fa-server
+    name: NUC - 1
+    group: d997ef15-4353-4e1f-8c3b-badf8a183bc6
+    type: ssh
+    id: ssh:custom:NUC-1:056eceed-c2dd-4aff-91ba-6c4ffe86103f
+  - type: local
+    name: ssh2sftp_win_template
+    icon: fas fa-terminal
+    options:
+      command: c:\Git\usr\bin\sftp.exe
+      env: {}
+      cwd: ''
+      args:
+        - '-oStrictHostKeyChecking=no'
+        - '-oServerAliveInterval=30'
+        - '-oServerAliveCountMax=1051200'
+        - '-oTCPKeepAlive=yes'
+    group: ssh2sftp_template
+    id: local:custom:ssh2sftp_win_template:c617da05-d05c-482d-8ca6-3c7eb99452e9
+    disableDynamicTitle: true
+    isTemplate: true
+  - type: local
+    name: ssh2sftp_linux_template
+    icon: fas fa-terminal
+    options:
+      command: /usr/bin/sftp
+      env: {}
+      cwd: ''
+      args:
+        - '-oStrictHostKeyChecking=no'
+        - '-oServerAliveInterval=30'
+        - '-oServerAliveCountMax=1051200'
+        - '-oTCPKeepAlive=yes'
+    group: ssh2sftp_template
+    id: local:custom:ssh2sftp_linux_template:6c4bcc75-f690-482a-a882-40e1c9851a3d
+    disableDynamicTitle: true
+    isTemplate: true
+  - type: local
+    name: ssh2sftp_mac_template
+    icon: fas fa-terminal
+    options:
+      command: /usr/local/opt/openssh/bin/sftp
+      args:
+        - '-oStrictHostKeyChecking=no'
+        - '-oServerAliveInterval=30'
+        - '-oServerAliveCountMax=1051200'
+        - '-oTCPKeepAlive=yes'
+      env: {}
+      cwd: ''
+    id: local:custom:ssh2sftp_mac_template:33162a26-7807-4c5e-ac2d-68cd2d9a4a24
+    group: ssh2sftp_template
+    disableDynamicTitle: true
+    isTemplate: true
+groups:
+  - id: d997ef15-4353-4e1f-8c3b-badf8a183bc6
+    name: Home
+configSync:
+  parts: {}
+hotkeys:
+  toggle-window: []
+  copy-current-path: []
+  ctrl-c:
+    - Ctrl-C
+  copy:
+    - Ctrl-Shift-C
+  paste:
+    - Ctrl-Shift-V
+    - Shift-Insert
+  select-all:
+    - Ctrl-Shift-A
+  clear: []
+  zoom-in:
+    - Ctrl-=
+    - Ctrl-Shift-=
+  zoom-out:
+    - Ctrl--
+    - Ctrl-Shift--
+  reset-zoom:
+    - Ctrl-0
+  home:
+    - Home
+  end:
+    - End
+  previous-word:
+    - Ctrl-Left
+  next-word:
+    - Ctrl-Right
+  delete-previous-word:
+    - Ctrl-Backspace
+  delete-line:
+    - Ctrl-Shift-Backspace
+  delete-next-word:
+    - Ctrl-Delete
+  search:
+    - Ctrl-Shift-F
+  pane-focus-all:
+    - Ctrl-Shift-I
+  focus-all-tabs:
+    - Ctrl-Alt-Shift-I
+  scroll-to-top:
+    - Ctrl-PageUp
+  scroll-page-up:
+    - Alt-PageUp
+  scroll-up:
+    - Ctrl-Shift-Up
+  scroll-down:
+    - Ctrl-Shift-Down
+  scroll-page-down:
+    - Alt-PageDown
+  scroll-to-bottom:
+    - Ctrl-PageDown
+  restart-telnet-session: []
+  restart-ssh-session: []
+  launch-winscp: []
+  settings-tab: {}
+  settings:
+    - Ctrl-,
+  serial:
+    - Alt-K
+  restart-serial-session: []
+  new-tab:
+    - Ctrl-Shift-T
+  new-window:
+    - Ctrl-Shift-N
+  profile: {}
+  profile-selectors: {}
+  group-selectors: {}
+  toggle-fullscreen:
+    - F11
+  close-tab:
+    - Ctrl-Shift-W
+  reopen-tab:
+    - Ctrl-Shift-Z
+  toggle-last-tab: []
+  rename-tab:
+    - Ctrl-Shift-R
+  next-tab:
+    - Ctrl-Shift-Right
+    - Ctrl-Tab
+  previous-tab:
+    - Ctrl-Shift-Left
+    - Ctrl-Shift-Tab
+  move-tab-left:
+    - Ctrl-Shift-PageUp
+  move-tab-right:
+    - Ctrl-Shift-PageDown
+  rearrange-panes:
+    - Ctrl-Shift
+  duplicate-tab: []
+  restart-tab: []
+  reconnect-tab: []
+  disconnect-tab: []
+  explode-tab:
+    - Ctrl-Shift-.
+  combine-tabs:
+    - Ctrl-Shift-,
+  tab-1:
+    - Alt-1
+  tab-2:
+    - Alt-2
+  tab-3:
+    - Alt-3
+  tab-4:
+    - Alt-4
+  tab-5:
+    - Alt-5
+  tab-6:
+    - Alt-6
+  tab-7:
+    - Alt-7
+  tab-8:
+    - Alt-8
+  tab-9:
+    - Alt-9
+  tab-10:
+    - Alt-0
+  tab-11: []
+  tab-12: []
+  tab-13: []
+  tab-14: []
+  tab-15: []
+  tab-16: []
+  tab-17: []
+  tab-18: []
+  tab-19: []
+  tab-20: []
+  split-right:
+    - Ctrl-Shift-S
+  split-bottom:
+    - Ctrl-Shift-D
+  split-left: []
+  split-top: []
+  pane-nav-right:
+    - Ctrl-Alt-Right
+  pane-nav-down:
+    - Ctrl-Alt-Down
+  pane-nav-up:
+    - Ctrl-Alt-Up
+  pane-nav-left:
+    - Ctrl-Alt-Left
+  pane-nav-previous:
+    - Ctrl-Alt-[
+  pane-nav-next:
+    - Ctrl-Alt-]
+  pane-nav-1: []
+  pane-nav-2: []
+  pane-nav-3: []
+  pane-nav-4: []
+  pane-nav-5: []
+  pane-nav-6: []
+  pane-nav-7: []
+  pane-nav-8: []
+  pane-nav-9: []
+  pane-maximize:
+    - Ctrl-Alt-Enter
+  pane-increase-vertical: []
+  pane-decrease-vertical: []
+  pane-increase-horizontal: []
+  pane-decrease-horizontal: []
+  close-pane: []
+  switch-profile:
+    - Ctrl-Alt-T
+  profile-selector:
+    - Ctrl-Shift-E
+  command-selector:
+    - Ctrl-Shift-P
+  open-sftp-tab:
+    - Ctrl-Shift-S
+terminal:
+  searchOptions: {}
+  colorScheme:
+    name: Tabby Default
+    foreground: '#cacaca'
+    background: '#171717'
+    cursor: '#bbbbbb'
+    colors:
+      - '#000000'
+      - '#ff615a'
+      - '#b1e969'
+      - '#ebd99c'
+      - '#5da9f6'
+      - '#e86aff'
+      - '#82fff7'
+      - '#dedacf'
+      - '#313131'
+      - '#f58c80'
+      - '#ddf88f'
+      - '#eee5b2'
+      - '#a5c7ff'
+      - '#ddaaff'
+      - '#b7fff9'
+      - '#ffffff'
+  customColorSchemes: []
+  font: JetBrainsMono Nerd Font Mono
+  autoOpen: false
+ssh:
+  warnOnClose: true
+  knownHosts:
+    - host: 192.168.1.25
+      port: 22
+      type: ecdsa-sha2-nistp256
+      digest: 5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4=
+clickableLinks: {}
+accessibility: {}
+appearance:
+  colorSchemeMode: auto
+hacks: {}
+providerBlacklist: []
+commandBlacklist: []
+enableAnalytics: false
+enableWelcomeTab: false
+pluginBlacklist:
+  - telnet
+  - serial
+enableAutomaticUpdates: false
+profileDefaults:
+  ssh:
+    disableDynamicTitle: true
+    type: ssh
+profileBlacklist:
+  - local:usrbinbash
+  - local:usrbinsh
+  - local:usrbintmux
+  - local:usrbinzsh
+vault:
+  version: 1
+  contents: oduHlCRtRrwl4ZlC+MZYFg==
+  keySalt: aef2c13ac88f5de4
+  iv: 4bc4b20d4467d00756b3b1a635b20255
+recoverTabs: false

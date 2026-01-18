@@ -1,0 +1,2868 @@
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 152x47
+debug: Setting language to
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 152x47
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 152x47
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 152x47
+debug: Resizing to 152x47
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 152x45
+debug: Resizing to 152x45
+debug: Setting language to
+debug: Resizing to 152x47
+debug: Resizing to 152x47
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: Destroying
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 152x47
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI handler matched:
+debug: Resizing to 152x47
+debug: Setting language to
+info: try open sftp tab for ssh profile
+info: token: {"children":[{"disableDynamicTitle":false,"profile":{"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":"/home/allan","env":{},"height":null,"pauseAfterExit":false,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0},"tabCustomTitle":"","tabTitle":"User default","type":"app:local-tab"}],"orientation":"h","ratios":[1],"type":"app:split-tab"}
+warn: open sftp tab just for ssh profile connection. can not find ssh profile! can not open sftp tab!!!
+error: open sftp tab for ssh profile error!!!
+info: try open sftp tab for ssh profile
+info: token: {"children":[{"disableDynamicTitle":false,"profile":{"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":"/home/allan","env":{},"height":null,"pauseAfterExit":false,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0},"tabCustomTitle":"","tabTitle":"User default","type":"app:local-tab"}],"orientation":"h","ratios":[1],"type":"app:split-tab"}
+warn: open sftp tab just for ssh profile connection. can not find ssh profile! can not open sftp tab!!!
+error: open sftp tab for ssh profile error!!!
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 152x47
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 152x47
+debug: Setting language to
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+debug: Resizing to 152x45
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+info: Destroying
+debug: Setting language to
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 152x47
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+info: Destroying
+debug: Resizing to 152x45
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 152x45
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: Setting language to
+debug: Resizing to 155x81
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+info: Shell session ended
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI handler matched:
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 152x47
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 152x45
+debug: Shell open
+debug: Resizing to 155x83
+debug: Resizing to 155x81
+info: Shell session ended
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 155x72
+debug: Resizing to 155x74
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: CLI handler matched:
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Setting language to
+debug: readdir
+debug: Resizing to 147x74
+debug: Resizing to 155x74
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: Resizing to 155x46
+debug: Resizing to 315x72
+debug: Resizing to 155x46
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Resizing to 155x72
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 155x74
+debug: Resizing to 155x72
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Resizing to 155x72
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Resizing to 155x46
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Resizing to 155x46
+debug: Resizing to 155x48
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 155x72
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Resizing to 155x46
+debug: Resizing to 130x98
+debug: Resizing to 155x63
+debug: Resizing to 315x72
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+debug: Resizing to 315x72
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Resizing to 155x63
+debug: Resizing to 155x72
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 155x74
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Resizing to 155x46
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 155x46
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x46
+debug: Shell open
+debug: Setting language to
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x46
+debug: Shell open
+debug: Setting language to
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 130x46
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x46
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x46
+debug: Shell open
+debug: Resizing to 315x72
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Resizing to 315x72
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+debug: Resizing to 315x72
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Resizing to 130x46
+debug: Resizing to 155x72
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 155x74
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+info: Downloading
+debug: open
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+info: Uploading into
+debug: open
+debug: rename
+debug: chmod
+info: Uploading into
+debug: open
+debug: rename
+debug: chmod
+info: Uploading into
+debug: open
+debug: rename
+debug: chmod
+info: Uploading into
+debug: open
+debug: rename
+debug: chmod
+info: Downloading
+debug: open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+info: Uploading into
+debug: open
+debug: rename
+debug: chmod
+info: Uploading into
+debug: open
+debug: rename
+debug: chmod
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Resizing to 155x46
+debug: Resizing to 155x72
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Resizing to 155x46
+debug: Resizing to 130x98
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x98
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x98
+debug: Shell open
+debug: Resizing to 129x63
+debug: Resizing to 315x72
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Resizing to 315x72
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Resizing to 315x72
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Resizing to 315x72
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Setting language to
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: Resizing to 129x63
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Resizing to 129x63
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Resizing to 155x72
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Resizing to 155x72
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Resizing to 155x46
+debug: Resizing to 130x98
+debug: Resizing to 155x63
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x63
+debug: Shell open
+debug: Resizing to 155x72
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+debug: rename
+debug: rename
+debug: rename
+debug: readdir
+debug: rename
+debug: readdir
+debug: readdir
+debug: rename
+debug: readdir
+debug: rename
+debug: rename
+debug: readdir
+debug: readdir
+debug: readdir
+debug: rename
+debug: rename
+debug: rename
+debug: readdir
+debug: readdir
+debug: readdir
+debug: rename
+debug: readdir
+debug: rename
+debug: readdir
+debug: rename
+debug: readdir
+debug: readdir
+debug: Resizing to 155x63
+debug: Resizing to 315x72
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+info: Uploading into
+debug: open
+debug: rename
+debug: rename
+debug: readdir
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 130x48
+debug: Resizing to 130x101
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 130x101
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x98
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x98
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 85x46
+debug: Resizing to 315x72
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x98
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x98
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x98
+debug: Shell open
+debug: Resizing to 85x46
+debug: Resizing to 315x72
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Resizing to 315x72
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 85x46
+debug: Resizing to 130x98
+debug: Resizing to 85x46
+debug: Resizing to 315x72
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Resizing to 155x46
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Resizing to 155x46
+debug: Resizing to 235x52
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 155x46
+debug: Resizing to 155x42
+debug: Resizing to 155x39
+debug: Resizing to 115x52
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 115x52
+debug: Shell open
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 115x54
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 115x52
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 115x52
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 115x52
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 115x52
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Resizing to 115x32
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 115x32
+debug: Shell open
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 115x34
+debug: Setting language to
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 115x32
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 115x32
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 115x32
+debug: Shell open
+debug: Resizing to 146x32
+debug: Resizing to 178x32
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 178x32
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 130x98
+debug: Shell open
+debug: Resizing to 130x32
+debug: Resizing to 315x72
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Resizing to 315x72
+debug: Resizing to 130x32
+debug: Resizing to 315x72
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 315x74
+debug: Resizing to 315x72
+debug: Resizing to 130x101
+debug: Resizing to 130x101
+debug: Resizing to 315x74
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Resizing to 130x32
+debug: Resizing to 155x72
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 155x48
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x46
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Resizing to 155x46
+debug: Resizing to 155x72
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Downloading
+debug: open
+info: Uploading into
+debug: open
+debug: rename
+debug: chmod
+info: Uploading into
+debug: open
+debug: rename
+debug: chmod
+info: Uploading into
+debug: open
+debug: rename
+debug: chmod
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+debug: readdir
+info: Uploading into
+debug: open
+debug: rename
+debug: readdir
+debug: readdir
+debug: readdir
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 155x72
+debug: Shell open
+debug: Resizing to 156x72
+debug: Resizing to 191x72
+debug: Resizing to 222x72
+debug: Resizing to 220x72
+debug: Resizing to 234x72
+debug: Resizing to 245x72
+debug: Resizing to 274x72
+debug: Resizing to 276x72
+debug: Resizing to 295x72
+debug: Resizing to 297x72
+debug: Resizing to 299x72
+debug: Resizing to 303x72
+debug: Resizing to 311x72
+debug: Resizing to 312x72
+debug: Resizing to 310x72
+debug: Resizing to 308x72
+debug: Resizing to 304x72
+debug: Resizing to 302x72
+debug: Resizing to 301x72
+debug: Resizing to 302x72
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Resizing to 302x72
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 302x72
+debug: Shell open
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 302x72
+debug: Shell open
+debug: Resizing to 302x67
+debug: Resizing to 302x59
+debug: Resizing to 155x72
+debug: Resizing to 302x59
+debug: Resizing to 315x72
+info: Destroying
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+debug: Setting language to
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
+info: starting...
+info: init succ!
+info: v
+debug: Setting language to
+info: call tryAddSftpProfilesTemplateToConfigService after config.ready
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/allan","secondInstance":false}
+info: Host key fingerprint:
+info:  ecdsa-sha2-nistp256  SHA256:5tzjsjCEAyibzTlK9+aKSwBLE5V1yYI4/LbcQGKEwR4 
+info: Host key verified
+info: Trying private key: file:///home/allan/.ssh/id_ed25519
+debug: Opening shell
+debug: Resizing to 315x72
+debug: Shell open
+debug: Closing shell
+info: Destroying
+debug: Closing shell
+info: Destroying
+info: Destroying
