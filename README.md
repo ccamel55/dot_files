@@ -29,4 +29,9 @@ Confirmed to work on the following specs
 - `akmods --force`
 - `dracut -f --regenerate-all`
 
+### AMD iGPU passthrough
 
+- https://github.com/isc30/ryzen-gpu-passthrough-proxmox
+- https://www.reddit.com/r/VFIO/comments/16mrk6j/amd_7000_seriesraphaelrdna2_igpu_passthrough/
+- https://ostechnix.com/enable-uefi-support-for-kvm-virtual-machines-in-linux/
+- https://www.reddit.com/r/VFIO/comments/yyqz5j/cant_find_the_rom_file/
